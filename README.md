@@ -63,3 +63,12 @@ Although the application generates descriptions in different writing styles, the
 ## Conclusion
 
 This project demonstrates how language models can help businesses create personalized content for online stores. It provided practical experience with Flask, Hugging Face Transformers, and prompt engineering while highlighting the importance of accuracy and human review when using generative AI in retail.
+
+## References
+
+- [Qwen2.5-1.5B-Instruct – Hugging Face](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
+- [Qwen2.5-0.5B-Instruct – Hugging Face](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct)
+- [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers)
+- [Flask Documentation](https://flask.palletsprojects.com/)
+- [PyTorch Documentation](https://docs.pytorch.org/docs/stable/index.html)
+- [Google Colab](https://colab.research.google.com/)
