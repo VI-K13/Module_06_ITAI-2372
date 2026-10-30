@@ -37,6 +37,25 @@ The application uses a public Hugging Face model, so no paid API key is required
 
 I tested the application using different products, including reusable water bottles and wireless Bluetooth headphones. These tests helped me compare how the language model responded to different keywords and writing tones. Some descriptions included unsupported product claims, which led me to experiment with prompt engineering and add a basic automated screening system. The notebook includes additional tests for input validation, claim screening, and fallback behavior.
 
+
+### Screenshots of Writing Tones
+
+**Friendly**
+
+![Friendly](screenshots/Friendly.png)
+
+**Professional**
+
+![Professional](screenshots/Professional.png)
+
+**Fun**
+
+![Fun](screenshots/Fun.png)
+
+**Luxury**
+
+![Luxury](screenshots/Luxury.png)
+
 ## Limitations and Future Improvements
 
 Although the application generates descriptions in different writing styles, the language model can occasionally introduce details that the user never provided. The automated screening system helps identify certain questionable claims, but it cannot guarantee complete accuracy. A future improvement could involve connecting the application to a verified product database and developing a more reliable fact-checking system.
